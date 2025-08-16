@@ -1,6 +1,6 @@
 # PDF Invoice Extractor
 
-An AI-powered pipeline for extracting structured data from PDF invoices into clean JSON.
+An AI-powered pipeline for extracting structured data from PDF invoices in Ukrainian into clean JSON. To be extended to automatically map the invoice entries as finmap entries and assign categories based on payment destination.
 
 It processes multi-page PDFs as a single document to extract key fields:
 
